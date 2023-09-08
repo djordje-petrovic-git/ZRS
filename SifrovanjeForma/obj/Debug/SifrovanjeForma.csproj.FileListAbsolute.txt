@@ -1,7 +1,0 @@
-C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\SifrovanjeForma\obj\Debug\SifrovanjeForma.csproj.AssemblyReference.cache
-C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\SifrovanjeForma\obj\Debug\SifrovanjeForma.csproj.SuggestedBindingRedirects.cache
-C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\SifrovanjeForma\obj\Debug\SifrovanjeApp.MainForm.resources
-C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\SifrovanjeForma\obj\Debug\SifrovanjeForma.Properties.Resources.resources
-C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\SifrovanjeForma\obj\Debug\SifrovanjeForma.csproj.GenerateResource.cache
-C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\SifrovanjeForma\obj\Debug\SifrovanjeForma.csproj.CoreCompileInputs.cache
-C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\SifrovanjeForma\obj\Debug\SifrovanjeForma.MainForm.resources
