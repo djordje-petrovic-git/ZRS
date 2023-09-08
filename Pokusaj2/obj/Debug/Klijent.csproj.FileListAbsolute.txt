@@ -1,0 +1,15 @@
+C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\Pokusaj2\obj\Debug\Klijent.csproj.AssemblyReference.cache
+C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\Pokusaj2\obj\Debug\Klijent.csproj.SuggestedBindingRedirects.cache
+C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\Pokusaj2\obj\Debug\Pokusaj2.Form1.resources
+C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\Pokusaj2\obj\Debug\Pokusaj2.Properties.Resources.resources
+C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\Pokusaj2\obj\Debug\Klijent.csproj.GenerateResource.cache
+C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\Pokusaj2\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\Pokusaj2\obj\Debug\Pokusaj2.exe
+C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\Pokusaj2\obj\Debug\Pokusaj2.pdb
+C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\Pokusaj2\bin\Debug\Pokusaj2.exe.config
+C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\Pokusaj2\bin\Debug\Pokusaj2.exe
+C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\Pokusaj2\bin\Debug\Pokusaj2.pdb
+C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\Pokusaj2\bin\Debug\Domen.dll
+C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\Pokusaj2\bin\Debug\Domen.pdb
+C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\Pokusaj2\obj\Debug\Klijent.csproj.CopyComplete
+C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\Pokusaj2\obj\Debug\Pokusaj2.FrmLogin.resources
