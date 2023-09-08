@@ -1,9 +1,0 @@
-C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\Server\obj\Debug\Server.csproj.AssemblyReference.cache
-C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
-C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\Server\bin\Debug\Server.dll
-C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\Server\bin\Debug\Server.pdb
-C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\Server\bin\Debug\Domen.dll
-C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\Server\bin\Debug\Domen.pdb
-C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\Server\obj\Debug\Server.csproj.CopyComplete
-C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\Server\obj\Debug\Server.dll
-C:\Users\Djole\OneDrive\Desktop\Projektovanje Softveera C#\ArsaKlipovi\SifrovanjeForma\Server\obj\Debug\Server.pdb
